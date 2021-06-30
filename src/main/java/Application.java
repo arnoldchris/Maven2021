@@ -3,6 +3,8 @@ public class Application {
     int i;
     final int j=10;
     int sum;
+    String str;
+    boolean flag;
     public void test(){
 
     }
