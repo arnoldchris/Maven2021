@@ -2,6 +2,7 @@ public class Application {
 
     int i;
     final int j=10;
+    int sum;
     public void test(){
 
     }
